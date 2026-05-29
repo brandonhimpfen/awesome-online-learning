@@ -20,6 +20,7 @@
 - [Open Education & Free Resources](#open-education--free-resources)
 
 ## Online Learning Platforms
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion. Google Classroom sync, Gemini AI study plans, SRS flashcards, AI quiz generator, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
 
 Platforms offering structured courses, certifications, and learning programs.
 
