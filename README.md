@@ -72,6 +72,7 @@ Platforms focused on programming, technology, and technical skills.
 
 Open-access platforms and resources for free learning materials.
 
+- [Albis](https://www.albis.news/media-literacy?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome_online_learning) — Free media-literacy exercise for comparing news coverage gaps and framing across public sources.
 - [Khan Academy](https://www.khanacademy.org/) — Free educational platform covering a wide range of subjects.
 - [MIT OpenCourseWare](https://ocw.mit.edu/) — Free course materials from MIT.
 - [OpenLearn (Open University)](https://www.open.edu/openlearn/) — Free courses and educational resources.
