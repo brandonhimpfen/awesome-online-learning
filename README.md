@@ -76,6 +76,7 @@ Open-access platforms and resources for free learning materials.
 - [Khan Academy](https://www.khanacademy.org/) — Free educational platform covering a wide range of subjects.
 - [MIT OpenCourseWare](https://ocw.mit.edu/) — Free course materials from MIT.
 - [OpenLearn (Open University)](https://www.open.edu/openlearn/) — Free courses and educational resources.
+- [YouTube Starter Guide](https://creator.taoliapp.com/) — Free Chinese-language YouTube starter knowledge base for creators (account setup, policy, monetization; official sources preferred).
 
 ## Related Awesome Lists
 
