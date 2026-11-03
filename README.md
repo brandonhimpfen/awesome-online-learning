@@ -76,6 +76,7 @@ Open-access platforms and resources for free learning materials.
 - [Khan Academy](https://www.khanacademy.org/) — Free educational platform covering a wide range of subjects.
 - [MIT OpenCourseWare](https://ocw.mit.edu/) — Free course materials from MIT.
 - [OpenLearn (Open University)](https://www.open.edu/openlearn/) — Free courses and educational resources.
+- [QuizQuip](https://quizquip.com/) — Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, quizzes, topical questions and downloadable original practice papers.
 
 ## Related Awesome Lists
 
